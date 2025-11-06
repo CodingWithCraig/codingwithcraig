@@ -85,4 +85,4 @@ Where code meets creativity :)
   
 </div>
 
-<h1>Template from Anmol-Baranwal</h1>
+<h1>Template: Anmol-Baranwal</h1>
