@@ -29,21 +29,14 @@
 
 <i>Mostly Coding, sometimes editing.</i> <br><br>
 
-👋 Hi! I'm Anmol, an independent technical writer creating technical content for international startups to bring organic traffic.
+👋 Hi! I'm Craig, an independent self taught full stack developer and passionate Computer Science student at Eduvos Midrand with a deep enthusiasm
+    for building real-world software solutions. Over time, I`ve practiced and excelled in web development, 
+   becoming capable of creating full-stack web applications that are clean, responsive, and user-focused.
+I enjoy turning ideas into interactive digital experiences from intuitive front-end designs to efficient back-end systems.
+ My goal is to become the best software developer I can possibly be, continuously improving my skills and exploring new technologies
+  every day.
 
-✍ Worked with startups valued at over `$50M`, trusted by founders & CEOs and reached a total of `1M+ audience` as a technical writer on [dev.to/anmolbaranwal](https://dev.to/anmolbaranwal).
-
-🎯 I've worked with 10+ funded startups including YC-backed. If you need a technical writer expert who gets developers and delivers real results, shoot me an email at `hi@anmolbaranwal.com`. Check all the details at [anmolbaranwal.com](http://anmolbaranwal.com)!
-
-🔖 I've been featured 3x as a Top Author on Devto (where I usually write) and my [open source guide](https://dev.to/anmolbaranwal/a-complete-guide-to-open-source-100x-simpler-2d6c) was picked by official GitHub community.
-
-💜 I've spent around 2 years in open source. Contributed to 40+ open source projects, made 200+ Pull Requests, joined 600+ discussions and earned a lot of reputation. Love the ecosystem.
-
-🤝 I also run [OpenSouls squad](https://app.daily.dev/squads/opensouls) of 1k+ members on Daily and the [OpenSouls discord community](https://dub.sh/opensouls) of 300+ members. If you've any questions, this is the best place to ask.
-
-😎 By the way, technical writing wasn't the first thing I did. I've done UX designing, research, software development, content writing and much more.
-
-I code for fun and keep learning new stuff :)
+Where code meets creativity :)
 
 </div>
 
